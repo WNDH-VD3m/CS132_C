@@ -1,0 +1,2 @@
+This is a testing for printf.
+This is testing for fputs.
