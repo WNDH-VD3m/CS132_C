@@ -9,14 +9,11 @@ int main()
   FILE *fp;
   char buffer[MAX];
 
-
-
   if((fp = fopen("lines.txt", "w")) == NULL)
   {
     printf("Fail to open!\n");
     exit(EXIT_FAILURE);
   }
-
 
   fputs("Hello world!\n" , fp);
   fputs("test!!!\n", fp);
