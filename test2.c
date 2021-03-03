@@ -3,6 +3,7 @@
 
 int main(void)
 {
+	
 	FILE *fp1;
 	FILE *fp2;
 	int ch;
