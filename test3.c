@@ -3,7 +3,6 @@
 
 #define MAX 1024
 
-
 int main()
 {
   FILE *fp;
